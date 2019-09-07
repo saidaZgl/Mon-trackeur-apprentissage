@@ -43,21 +43,23 @@ Un journal complet de mes compétences en développement Web, mon apprentissage,
 [in progress]: https://user-images.githubusercontent.com/29199184/34462881-7305ddac-ee4d-11e7-9b57-589424820da4.png "In Progress"
 [soon]: https://user-images.githubusercontent.com/29199184/34462916-d5c37bd4-ee4d-11e7-9f4a-d57f2243281b.png "Soon"
 
-|         Status          | Année          | Cours                                                                                          |                                         Lien                                          |
-| :---------------------: | :------------- | :--------------------------------------------------------------------------------------------- | :-----------------------------------------------------------------------------------: |
-| ![Completed][completed] | Juillet 2019   | Formation en ligne React                                                                       |                   [![Dyma](logos/logo-dyma.png)](https://dyma.fr/)                    |
-| ![Completed][completed] | Juin 2019      | Découvir React Native et créer des apps mobiles                                                |          [![Hardcoders](logos/hardcoder.jpg)](https://courses.hardcode.rs/)           |
-|                         |
-| ![Completed][completed] | Mars 2019      | Formation en ligne JavaScript (ES6+), Module débutant                                          | [![javascriptdezero](logos/javascriptdezero.jpg)](https://www.javascriptdezero.com/)  |
-|                         |
-| ![Completed][completed] | Mars 2019      | Formation en ligne React                                                                       | [![CodeCademy](logos/logo-codecademy.png)](https://www.udemy.com/javascript-es6-es7/) |
-| ![Completed][completed] | Mars 2019      | Développement moderne Javascript et ES6, ES7                                                   |             [![Udemy](logos/logo-udemy.png)](https://www.codecademy.com/)             |
-| ![Completed][completed] | Février 2019   | Vraiment bien comprendre javascript                                                            |               [![Udemy](logos/logo-udemy.png)](https://www.udemy.com/)                |
-| ![Completed][completed] | Janvier 2019   | AJAX, JSON, jQuery, MCD(Modèle Conceptuel de Données), MLD(Modèle Logique de Données)          |   [![Wild Code School](logos/logo-wild.png)](https://www.wildcodeschool.com/fr-FR)    |
-| ![Completed][completed] | Décembre 2018  | MVC (Modèle-Vue-Contôleur), Héritage, POO, SEO, Modélisation de la BDD, Agile                  |   [![Wild Code School](logos/logo-wild.png)](https://www.wildcodeschool.com/fr-FR)    |
-| ![Completed][completed] | Décembre 2018  | Gestion de projet, MySQL, Flexbox,                                                             |   [![Wild Code School](logos/logo-wild.png)](https://www.wildcodeschool.com/fr-FR)    |
-| ![Completed][completed] | Novembre 2018  | JavaScript ES5, ANGULAR, API, SCRUM                                                            |   [![Wild Code School](logos/logo-wild.png)](https://www.wildcodeschool.com/fr-FR)    |
-| ![Completed][completed] | Septembre 2018 | Intégration, HTML5, CSS3, Git, Github, Slack, Vscode, Trello, Intégration, Css Grid, Bootstrap |   [![Wild Code School](logos/logo-wild.png)](https://www.wildcodeschool.com/fr-FR)    |
+|         Status          | Année        | Cours                                           |                                Lien                                |
+| :---------------------: | :----------- | :---------------------------------------------- | :----------------------------------------------------------------: |
+| ![Completed][completed] | Juillet 2019 | Formation en ligne React                        |          [![Dyma](logos/logo-dyma.png)](https://dyma.fr/)          |
+| ![Completed][completed] | Juin 2019    | Découvir React Native et créer des apps mobiles | [![Hardcoders](logos/hardcoder.jpg)](https://courses.hardcode.rs/) |
+
+|
+| ![Completed][completed] | Avril 2019 | Intégration, HTML5, CSS3, Git, Github, Slack, Vscode, Trello, Intégration, Css Grid, Bootstrap | [![La Capsule](logos/LaCapsule.png)](https://lacapsule.academy/) | |
+| ![Completed][completed] | Mars 2019 | Formation en ligne JavaScript (ES6+), Module débutant | [![javascriptdezero](logos/javascriptdezero.jpg)](https://www.javascriptdezero.com/) |
+| |
+| ![Completed][completed] | Mars 2019 | Formation en ligne React | [![CodeCademy](logos/logo-codecademy.png)](https://www.udemy.com/javascript-es6-es7/) |
+| ![Completed][completed] | Mars 2019 | Développement moderne Javascript et ES6, ES7 | [![Udemy](logos/logo-udemy.png)](https://www.codecademy.com/) |
+| ![Completed][completed] | Février 2019 | Vraiment bien comprendre javascript | [![Udemy](logos/logo-udemy.png)](https://www.udemy.com/) |
+| ![Completed][completed] | Janvier 2019 | AJAX, JSON, jQuery, MCD(Modèle Conceptuel de Données), MLD(Modèle Logique de Données) | [![Wild Code School](logos/logo-wild.png)](https://www.wildcodeschool.com/fr-FR) |
+| ![Completed][completed] | Décembre 2018 | MVC (Modèle-Vue-Contôleur), Héritage, POO, SEO, Modélisation de la BDD, Agile | [![Wild Code School](logos/logo-wild.png)](https://www.wildcodeschool.com/fr-FR) |
+| ![Completed][completed] | Décembre 2018 | Gestion de projet, MySQL, Flexbox, | [![Wild Code School](logos/logo-wild.png)](https://www.wildcodeschool.com/fr-FR) |
+| ![Completed][completed] | Novembre 2018 | JavaScript ES5, ANGULAR, API, SCRUM | [![Wild Code School](logos/logo-wild.png)](https://www.wildcodeschool.com/fr-FR) |
+| ![Completed][completed] | Septembre 2018 | Intégration, HTML5, CSS3, Git, Github, Slack, Vscode, Trello, Intégration, Css Grid, Bootstrap | [![Wild Code School](logos/logo-wild.png)](https://www.wildcodeschool.com/fr-FR) |
 
 ---
 
