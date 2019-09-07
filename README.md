@@ -28,8 +28,8 @@ Un journal de mes compétences en développement Web et mobile, mon apprentissag
 | **![](logos/logoNodeJs.jpg) NodeJs**                |   ![done][done]   | ![done][done] | ![done][done] | ![done][done]  |                |
 | **![](logos/logo-ajax.png) AJAX**                   |   ![done][done]   | ![done][done] |               |                |                |
 | **![](logos/logoExpress.jpg) Express**              |   ![done][done]   | ![done][done] | ![done][done] | ![done][done]  |                |
-| **![](logos/logoMongoDB.jpg) MongoDB**              |   ![done][done]   | ![done][done] | ![done][done] | ![done][done]  |                |
-| **![](logos/logoMongoose.jpg) Mongoose**            |   ![done][done]   | ![done][done] | ![done][done] | ![done][done]  |                |
+| **![](logos/logoMongoDB.jpg) MongoDB**              |   ![done][done]   | ![done][done] | ![done][done] |
+| **![](logos/logoMongoose.jpg) Mongoose**            |   ![done][done]   | ![done][done] | ![done][done] |
 
 ---
 
