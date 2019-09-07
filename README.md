@@ -68,19 +68,18 @@ Un journal complet de mes compétences en développement Web, mon apprentissage,
 |   ![Completed][completed]   | Décembre 2018         | Gestion de projet, MySQL, SQL, phpMyAdmin, POO avec PHP, Bootstrap                                                |                               [![O 'Clock](logos/logo-oclock.png)](https://oclock.io/)                                |
 |   ![Completed][completed]   | Novembre 2018         | JavaScript ES5                                                                                                    |                               [![O 'Clock](logos/logo-oclock.png)](https://oclock.io/)                                |
 |   ![Completed][completed]   | Novembre 2018         | PHP, Templating                                                                                                   |                               [![O 'Clock](logos/logo-oclock.png)](https://oclock.io/)                                |
-|   ![Completed][completed]   | Novembre 2018         | Intégration, HTML5, CSS3, Git, Github, Slack, Vscode, Chrome,Intégration, Flexbox, Css Grid, ResponsiveWeb Design |                               [![O 'Clock](logos/logo-oclock.png)](https://oclock.io/)                                |
+|   ![Completed][completed]   | Novembre 2018         | Intégration, HTML5, CSS3, Git, Github, Slack, Vscode, Trello,Intégration, Flexbox, Css Grid, ResponsiveWeb Design |                   [![Wild Code School](logos/logo-wild.png)](https://www.wildcodeschool.com/fr-FR)                    |
 
 ---
 
 ## Intérêts
 
-Je suis actuellement intéressé par:
+Je suis actuellement intéressée par:
 
 - Tout ce qui concerne la [JAMstack](https://jamstatic.fr/2019/02/07/c-est-quoi-la-jamstack/)
 - :earth_africa: webmapping avec OpenLayers
 - ![](logos/logo-react1.png) React
 - ![](logos/gatsby.jpg) Gatsby
-- ![](logos/svelte.jpg) Svelte JS
 
 ---
 
@@ -122,8 +121,8 @@ Cette liste est une copie presque exacte de [ Ginny Fahs](https://twitter.com/gi
 - [x] Posez une question sur Stack Overflow
 - [x] Code Push vers GitHub
 - [ ] Parlez de quelque chose lié au développement web lors d'un événement
-- [ ] Remplir un entretien technique
-- [ ] Participer à un hackathon
+- [x] Remplir un entretien technique
+- [x] Participer à un hackathon
 - [x] Déployer un projet
 - [ ] Contribuer à l'open source
 - [ ] Soyez payé pour coder
