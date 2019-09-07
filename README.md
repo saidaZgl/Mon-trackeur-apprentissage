@@ -1,6 +1,6 @@
 # Mon traqueur d'apprentissage
 
-Un journal complet de mes compétences en développement Web, mon apprentissage, mes ressources, mes centres d'intérêt et tout ce qui concerne mon apprentissage. C'est un moyen de suivre, d'organiser et de partager mes apprentissages.
+Un journal de mes compétences en développement Web et mobile, mon apprentissage, mes ressources, mes centres d'intérêt. C'est un moyen de suivre, d'organiser et de partager mes apprentissages.
 
 ## Compétences
 
@@ -12,11 +12,11 @@ Un journal complet de mes compétences en développement Web, mon apprentissage,
 | **![](logos/logo-css3.png) CSS3**                   |   ![done][done]   | ![done][done] | ![done][done] | ![done][done]  | ![done][done]  |             |
 | **![](logos/logo-javascript1.png) JavaScript**      |   ![done][done]   | ![done][done] | ![done][done] |                |                |             |
 | **![](logos/logo-es6.png) ES6**                     |   ![done][done]   | ![done][done] | ![done][done] |                |                |             |
-| **![](logos/logo-react1.png) Reactjs**              |   ![done][done]   | ![done][done] | ![done][done] |                |                |             |
+| **![](logos/logo-react1.png) Reactjs**              |   ![done][done]   | ![done][done] |               |                |
 | **![](logos/logo-react1.png) React Native**         |   ![done][done]   | ![done][done] |               |                |                |
 | **![](logos/logo-redux1.png) Redux**                |   ![done][done]   |               |               |                |                |             |  |
 | **![](logos/logo-git.png) Git**                     |   ![done][done]   | ![done][done] | ![done][done] |                |                |             |  |
-| **![](logos/logo-github.png) GitHub**               |   ![done][done]   | ![done][done] | ![done][done] | ![done][done]  | ![done][done]  |             |  |
+| **![](logos/logo-github.png) GitHub**               |   ![done][done]   | ![done][done] | ![done][done] | ![done][done]  |                |
 | **![](logos/logo-agile.png) Agile**                 |   ![done][done]   | ![done][done] |               |                |                |             |
 | **![](logos/logo-api.png) Travailler avec des API** |   ![done][done]   | ![done][done] |               |                |                |             |
 | **![](logos/logo-jquery5.png) jQuery**              |   ![done][done]   | ![done][done] |               |                |                |             |
