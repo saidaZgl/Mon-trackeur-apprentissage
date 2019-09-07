@@ -66,9 +66,9 @@ Un journal de mes compétences en développement Web et mobile, mon apprentissag
 
 Je suis actuellement intéressée par:
 
-- Tout ce qui concerne le [Sales&BizzDev](https://www.humindschool.com/blog/ressources-pour-decouvrir-sales-business-development-en-startup)
+- Tout ce qui concerne le [Sales&BizzDev](https://www.humindschool.com/blog/ressources-pour-decouvrir-sales-business-development-en-startup) et l'écosystème des startups
   <br />
-- ![](logos/startup.png) L'écosystème des startups
+- ![](logos/startup.png)
   ![](logos/growth-hacking.png)
 
 ---
