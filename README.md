@@ -17,27 +17,23 @@ Un journal complet de mes compétences en développement Web, mon apprentissage,
 | **![](logos/logo-redux1.png) Redux**                |   ![done][done]   |               |               |                |                |             |  |
 | **![](logos/logo-git.png) Git**                     |   ![done][done]   | ![done][done] | ![done][done] |                |                |             |  |
 | **![](logos/logo-github.png) GitHub**               |   ![done][done]   | ![done][done] | ![done][done] | ![done][done]  | ![done][done]  |             |  |
-| **![](logos/logo-webpack3.png) Webpack 4**          |   ![done][done]   | ![done][done] | ![done][done] |                |                |             |
+| **![](logos/logoExpress.jpg) Express**              |   ![done][done]   | ![done][done] | ![done][done] |                |                |             |
 | **![](logos/logo-agile.png) Agile**                 |   ![done][done]   | ![done][done] |               |                |                |             |
 | **![](logos/logo-api.png) Travailler avec des API** |   ![done][done]   | ![done][done] |               |                |                |             |
 | **![](logos/logo-jquery5.png) jQuery**              |   ![done][done]   | ![done][done] |               |                |                |             |
 | **Css Grid & Flex-box**                             |   ![done][done]   | ![done][done] | ![done][done] | ![done][done]  |                |             |
 | **Responsive design**                               |   ![done][done]   | ![done][done] | ![done][done] |                |                |             |
 | **Mobile first**                                    |   ![done][done]   | ![done][done] |               |                |                |             |  |
-| **![](logos/logo-markdown6.png) Markdown**          |   ![done][done]   | ![done][done] | ![done][done] | ![done][done]  |                |             |
-| **Construction de site Web**                        |   ![done][done]   | ![done][done] |               |                |                |             |
-| **Déployer un site web**                            |   ![done][done]   | ![done][done] |               |                |                |             |
+| **![](logos/logo-markdown6.png) Markdown**          |   ![done][done]   | ![done][done] | ![done][done] | ![done][done]  |                |             |  |  |  |
 | **![](logos/logo-bootstrap.png) Bootstrap**         |   ![done][done]   | ![done][done] | ![done][done] |                |                |             |
 | **![](logos/logo-terminal3.png) Ligne de commande** |   ![done][done]   | ![done][done] | ![done][done] |                |                |             |
 | **![](logos/logo-npm.png) NPM**                     |   ![done][done]   | ![done][done] | ![done][done] | ![done][done]  |                |             |  |
-| **![](logos/logoNodeJs.jpg) NodeJs**                |   ![done][done]   | ![done][done] | ![done][done] | ![done][done]  |
-|  |
+| **![](logos/logoNodeJs.jpg) NodeJs**                |   ![done][done]   | ![done][done] | ![done][done] | ![done][done]  |                |
 | **![](logos/logo-ajax.png) AJAX**                   |   ![done][done]   | ![done][done] |               |                |                |
-| **![](logos/stripe.jpg) Stripe**                    |   ![done][done]   |               |               |                |                |             |
-
-|**![](logos/logoExpress.jpg) Express** | ![done][done] | ![done][done] | ![done][done] | ![done][done] | |
-|**![](logos/logoMongoDB.jpg) MongoDB** | ![done][done] | ![done][done] | ![done][done] | ![done][done] | |
-|**![](logos/logoMongoose.jpg) Mongoose** | ![done][done] | ![done][done] | ![done][done] | ![done][done] | |
+|                                                     |                   |               |
+| **![](logos/logoExpress.jpg) Express**              |   ![done][done]   | ![done][done] | ![done][done] | ![done][done]  |                |
+| **![](logos/logoMongoDB.jpg) MongoDB**              |   ![done][done]   | ![done][done] | ![done][done] | ![done][done]  |                |
+| **![](logos/logoMongoose.jpg) Mongoose**            |   ![done][done]   | ![done][done] | ![done][done] | ![done][done]  |                |
 
 ---
 
