@@ -16,11 +16,11 @@ Un journal de mes compétences en développement Web et mobile, mon apprentissag
 | **![](logos/logo-react1.png) React Native**         |   ![done][done]   | ![done][done] |               |                |                |
 | **![](logos/logo-redux1.png) Redux**                |   ![done][done]   |               |               |                |                |             |  |
 | **![](logos/logo-git.png) Git**                     |   ![done][done]   | ![done][done] | ![done][done] |                |                |             |  |
-| **![](logos/logo-github.png) GitHub**               |   ![done][done]   | ![done][done] | ![done][done] | ![done][done]  |                |
+| **![](logos/logo-github.png) GitHub**               |   ![done][done]   | ![done][done] | ![done][done] |
 | **![](logos/logo-agile.png) Agile**                 |   ![done][done]   | ![done][done] |               |                |                |             |
 | **![](logos/logo-api.png) Travailler avec des API** |   ![done][done]   | ![done][done] |               |                |                |             |
 | **![](logos/logo-jquery5.png) jQuery**              |   ![done][done]   | ![done][done] |               |                |                |             |
-| **Css Grid & Flex-box**                             |   ![done][done]   | ![done][done] | ![done][done] | ![done][done]  |                |             |
+| **Css Grid & Flex-box**                             |   ![done][done]   | ![done][done] | ![done][done] |                |
 | **Responsive design**                               |   ![done][done]   | ![done][done] | ![done][done] |                |                |             |
 | **![](logos/logo-bootstrap.png) Bootstrap**         |   ![done][done]   | ![done][done] | ![done][done] |                |                |             |
 | **![](logos/logo-terminal3.png) Ligne de commande** |   ![done][done]   | ![done][done] | ![done][done] |                |                |             |
