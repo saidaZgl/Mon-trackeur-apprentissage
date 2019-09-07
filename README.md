@@ -6,34 +6,33 @@ Un journal complet de mes compétences en développement Web, mon apprentissage,
 
 [done]: https://user-images.githubusercontent.com/29199184/32275438-8385f5c0-bf0b-11e7-9406-42265f71e2bd.png "Done"
 
-| Compétence                                          |           1<br>Introduction            |  2<br>Bases   |   3<br>bien   | 4<br>très bien | 5<br>confiante | 6<br>génial |
-| :-------------------------------------------------- | :------------------------------------: | :-----------: | :-----------: | :------------: | :------------: | :---------: |
-| **![](logos/logo-html7.png) HTML5**                 |             ![done][done]              | ![done][done] | ![done][done] | ![done][done]  | ![done][done]  |             |
-| **![](logos/logo-css3.png) CSS3**                   |             ![done][done]              | ![done][done] | ![done][done] | ![done][done]  | ![done][done]  |             |
-| **![](logos/logo-javascript1.png) JavaScript**      |             ![done][done]              | ![done][done] | ![done][done] |                |                |             |
-| **![](logos/logo-es6.png) ES6**                     |             ![done][done]              | ![done][done] | ![done][done] |                |                |             |
-| **![](logos/logo-react1.png) Reactjs**              |             ![done][done]              | ![done][done] | ![done][done] |                |                |             |
-| **![](logos/logo-react1.png) React Native**         |             ![done][done]              | ![done][done] |               |                |                |
-| **![](logos/logo-redux1.png) Redux**                |             ![done][done]              |               |               |                |                |             |  |
-| **![](logos/logo-git.png) Git**                     |             ![done][done]              | ![done][done] | ![done][done] |                |                |             |  |
-| **![](logos/logo-github.png) GitHub**               |             ![done][done]              | ![done][done] | ![done][done] | ![done][done]  | ![done][done]  |             |  |
-| <!--                                                | **![](logos/logoExpress.jpg) Express** | ![done][done] | ![done][done] | ![done][done]  |                |             |  | --> |
-| **![](logos/logo-agile.png) Agile**                 |             ![done][done]              | ![done][done] |               |                |                |             |
-| **![](logos/logo-api.png) Travailler avec des API** |             ![done][done]              | ![done][done] |               |                |                |             |
-| **![](logos/logo-jquery5.png) jQuery**              |             ![done][done]              | ![done][done] |               |                |                |             |
-| **Css Grid & Flex-box**                             |             ![done][done]              | ![done][done] | ![done][done] | ![done][done]  |                |             |
-| **Responsive design**                               |             ![done][done]              | ![done][done] | ![done][done] |                |                |             |
-|                                                     |                                        |               |               |
-| **![](logos/logo-markdown6.png) Markdown**          |             ![done][done]              | ![done][done] | ![done][done] | ![done][done]  |                |             |  |  |  |
-| **![](logos/logo-bootstrap.png) Bootstrap**         |             ![done][done]              | ![done][done] | ![done][done] |                |                |             |
-| **![](logos/logo-terminal3.png) Ligne de commande** |             ![done][done]              | ![done][done] | ![done][done] |                |                |             |
-| **![](logos/logo-npm.png) NPM**                     |             ![done][done]              | ![done][done] | ![done][done] | ![done][done]  |                |             |  |
-| **![](logos/logoNodeJs.jpg) NodeJs**                |             ![done][done]              | ![done][done] | ![done][done] | ![done][done]  |                |
-| **![](logos/logo-ajax.png) AJAX**                   |             ![done][done]              | ![done][done] |               |                |                |
-|                                                     |                                        |               |
-| **![](logos/logoExpress.jpg) Express**              |             ![done][done]              | ![done][done] | ![done][done] | ![done][done]  |                |
-| **![](logos/logoMongoDB.jpg) MongoDB**              |             ![done][done]              | ![done][done] | ![done][done] | ![done][done]  |                |
-| **![](logos/logoMongoose.jpg) Mongoose**            |             ![done][done]              | ![done][done] | ![done][done] | ![done][done]  |                |
+| Compétence                                          | 1<br>Introduction |  2<br>Bases   |   3<br>bien   | 4<br>très bien | 5<br>confiante | 6<br>génial |
+| :-------------------------------------------------- | :---------------: | :-----------: | :-----------: | :------------: | :------------: | :---------: |
+| **![](logos/logo-html7.png) HTML5**                 |   ![done][done]   | ![done][done] | ![done][done] | ![done][done]  | ![done][done]  |             |
+| **![](logos/logo-css3.png) CSS3**                   |   ![done][done]   | ![done][done] | ![done][done] | ![done][done]  | ![done][done]  |             |
+| **![](logos/logo-javascript1.png) JavaScript**      |   ![done][done]   | ![done][done] | ![done][done] |                |                |             |
+| **![](logos/logo-es6.png) ES6**                     |   ![done][done]   | ![done][done] | ![done][done] |                |                |             |
+| **![](logos/logo-react1.png) Reactjs**              |   ![done][done]   | ![done][done] | ![done][done] |                |                |             |
+| **![](logos/logo-react1.png) React Native**         |   ![done][done]   | ![done][done] |               |                |                |
+| **![](logos/logo-redux1.png) Redux**                |   ![done][done]   |               |               |                |                |             |  |
+| **![](logos/logo-git.png) Git**                     |   ![done][done]   | ![done][done] | ![done][done] |                |                |             |  |
+| **![](logos/logo-github.png) GitHub**               |   ![done][done]   | ![done][done] | ![done][done] | ![done][done]  | ![done][done]  |             |  |
+| **![](logos/logo-agile.png) Agile**                 |   ![done][done]   | ![done][done] |               |                |                |             |
+| **![](logos/logo-api.png) Travailler avec des API** |   ![done][done]   | ![done][done] |               |                |                |             |
+| **![](logos/logo-jquery5.png) jQuery**              |   ![done][done]   | ![done][done] |               |                |                |             |
+| **Css Grid & Flex-box**                             |   ![done][done]   | ![done][done] | ![done][done] | ![done][done]  |                |             |
+| **Responsive design**                               |   ![done][done]   | ![done][done] | ![done][done] |                |                |             |
+|                                                     |                   |               |               |
+| **![](logos/logo-markdown6.png) Markdown**          |   ![done][done]   | ![done][done] | ![done][done] | ![done][done]  |                |             |  |  |  |
+| **![](logos/logo-bootstrap.png) Bootstrap**         |   ![done][done]   | ![done][done] | ![done][done] |                |                |             |
+| **![](logos/logo-terminal3.png) Ligne de commande** |   ![done][done]   | ![done][done] | ![done][done] |                |                |             |
+| **![](logos/logo-npm.png) NPM**                     |   ![done][done]   | ![done][done] | ![done][done] | ![done][done]  |                |             |  |
+| **![](logos/logoNodeJs.jpg) NodeJs**                |   ![done][done]   | ![done][done] | ![done][done] | ![done][done]  |                |
+| **![](logos/logo-ajax.png) AJAX**                   |   ![done][done]   | ![done][done] |               |                |                |
+|                                                     |                   |               |
+| **![](logos/logoExpress.jpg) Express**              |   ![done][done]   | ![done][done] | ![done][done] | ![done][done]  |                |
+| **![](logos/logoMongoDB.jpg) MongoDB**              |   ![done][done]   | ![done][done] | ![done][done] | ![done][done]  |                |
+| **![](logos/logoMongoose.jpg) Mongoose**            |   ![done][done]   | ![done][done] | ![done][done] | ![done][done]  |                |
 
 ---
 
