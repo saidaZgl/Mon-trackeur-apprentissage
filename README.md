@@ -24,8 +24,8 @@ Un journal de mes compétences en développement Web et mobile, mon apprentissag
 | **Responsive design**                               |   ![done][done]   | ![done][done] | ![done][done] |                |                |             |
 | **![](logos/logo-bootstrap.png) Bootstrap**         |   ![done][done]   | ![done][done] | ![done][done] |                |                |             |
 | **![](logos/logo-terminal3.png) Ligne de commande** |   ![done][done]   | ![done][done] | ![done][done] |                |                |             |
-| **![](logos/logo-npm.png) NPM**                     |   ![done][done]   | ![done][done] | ![done][done] | ![done][done]  |                |             |  |
-| **![](logos/logoNodeJs.jpg) NodeJs**                |   ![done][done]   | ![done][done] | ![done][done] | ![done][done]  |                |
+| **![](logos/logo-npm.png) NPM**                     |   ![done][done]   | ![done][done] | ![done][done] |                |                |
+| **![](logos/logoNodeJs.jpg) NodeJs**                |   ![done][done]   | ![done][done] | ![done][done] |
 | **![](logos/logo-ajax.png) AJAX**                   |   ![done][done]   | ![done][done] |               |                |                |
 | **![](logos/logoExpress.jpg) Express**              |   ![done][done]   | ![done][done] | ![done][done] |
 | **![](logos/logoMongoDB.jpg) MongoDB**              |   ![done][done]   | ![done][done] | ![done][done] |
