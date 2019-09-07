@@ -47,7 +47,7 @@ Un journal complet de mes compétences en développement Web, mon apprentissage,
 | :---------------------: | :------------- | :--------------------------------------------------------------------------------------------- | :-----------------------------------------------------------------------------------: |
 | ![Completed][completed] | Juillet 2019   | Formation en ligne React                                                                       |                   [![Dyma](logos/logo-dyma.png)](https://dyma.fr/)                    |
 | ![Completed][completed] | Juin 2019      | Découvir React Native et créer des apps mobiles                                                |          [![Hardcoders](logos/hardcoder.jpg)](https://courses.hardcode.rs/)           |
-| ![Completed][completed] | Mai 2019       | Devenir opérationnel en React volume 1, 2 & 3                                                  |                                [![CodeConcept](logos/                                 |  |
+|                         |
 | ![Completed][completed] | Mars 2019      | Formation en ligne JavaScript (ES6+), Module débutant                                          | [![javascriptdezero](logos/javascriptdezero.jpg)](https://www.javascriptdezero.com/)  |
 |                         |
 | ![Completed][completed] | Mars 2019      | Formation en ligne React                                                                       | [![CodeCademy](logos/logo-codecademy.png)](https://www.udemy.com/javascript-es6-es7/) |
