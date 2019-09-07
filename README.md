@@ -66,9 +66,9 @@ Un journal de mes compétences en développement Web et mobile, mon apprentissag
 
 Je suis actuellement intéressée par:
 
-- Tout ce qui concerne la [JAMstack](https://jamstatic.fr/2019/02/07/c-est-quoi-la-jamstack/)
-- :earth_africa: webmapping avec OpenLayers
-- ![](logos/logo-react1.png) React
+- Tout ce qui concerne le [Sales&BizzDev](https://www.humindschool.com/blog/ressources-pour-decouvrir-sales-business-development-en-startup)
+- ![](logos/startup.png)
+- ![](logos/growth-hacking.png) Le Growth Hacking
 - ![](logos/gatsby.jpg) Gatsby
 
 ---
