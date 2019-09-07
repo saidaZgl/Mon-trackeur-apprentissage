@@ -57,8 +57,8 @@ Un journal complet de mes compétences en développement Web, mon apprentissage,
 |   ![Completed][completed]   | Avril 2019            | Formation en ligne Webpack 4                                                                   |                    [![CodeConcept](logos/codeConceptLogo.jpg)](https://codeconcept.teachable.com/)                    |
 |   ![Completed][completed]   | Avril 2019            | Formation en ligne Redux les bases                                                             |                                   [![Dyma](logos/logo-dyma.png)](https://dyma.fr/)                                    |
 |   ![Completed][completed]   | Avril 2019            | Formation en ligne React                                                                       |                                   [![Dyma](logos/logo-dyma.png)](https://dyma.fr/)                                    |
-|   ![Completed][completed]   | Avril 2019            | Formation en ligne JavaScript (ES6+), Module débutant                                          |                 [![javascriptdezero](logos/javascriptdezero.jpg)](https://www.javascriptdezero.com/)                  |
-|   ![Completed][completed]   | Avril 2019            | Préparation en ligne et certification « Maîtrise de la qualité en projet web »                 |                       [![opquast](logos/logo-opquast.png)](https://www.opquast.com/formation/)                        |
+|   ![Completed][completed]   | Mars 2019             | Formation en ligne JavaScript (ES6+), Module débutant                                          |                 [![javascriptdezero](logos/javascriptdezero.jpg)](https://www.javascriptdezero.com/)                  |
+|  |
 |   ![Completed][completed]   | Mars 2019             | Développement moderne Javascript et ES6, ES7                                                   |                      [![Udemy](logos/logo-udemy.png)](https://www.udemy.com/javascript-es6-es7/)                      |
 |   ![Completed][completed]   | Février 2019          | Vraiment bien comprendre javascript                                                            |                               [![Udemy](logos/logo-udemy.png)](https://www.udemy.com/)                                |
 |   ![Completed][completed]   | Janvier 2019          | AJAX, JSON, , jQuery, MCD(Modèle Conceptuel de Données), MLD(Modèle Logique de Données)        |                   [![Wild Code School](logos/logo-wild.png)](https://www.wildcodeschool.com/fr-FR)                    |
@@ -104,7 +104,7 @@ Voici une liste d'objectifs de base à atteindre sur le chemin de la maîtrise d
 
 Cette liste est une copie presque exacte de [ Ginny Fahs](https://twitter.com/ginnyfahs) [ "Things Real Developers Do: My Bucket List"](https://blog.prototypr.io/wondering-if-youre-a-real-developer-yet-try-making-a-bucket-list-281275482155)
 
-- [x] Ouvrrir le terminal de l'ordinateur
+- [x] Ouvrir le terminal de l'ordinateur
 - [x] Utilisez un éditeur de texte (Vscode)
 - [x] Utilisez des raccourcis clavier
 - [ ] Écrire des tests pour votre code
@@ -123,5 +123,5 @@ Cette liste est une copie presque exacte de [ Ginny Fahs](https://twitter.com/gi
 - [x] Déployer un projet
 - [ ] Contribuer à l'open source
 - [ ] Soyez payé pour coder
-- [x] Lorsque les gens vous demandent ce que vous faites, répondez en disant que vous êtes développeur :)
+- [x] Lorsque les gens vous demandent ce que vous faites, répondez en disant que vous apprenez le code :)
 - [x] Travailler en Pair Programming
