@@ -74,8 +74,8 @@ Je suis actuellement intéressée par:
 
 ## Ressources Sales & Business Development
 
-- :fr: [les grands principes de la vente](https://www.youtube.com/watch?time_continue=1&v=rTmzAUIL_sQ) de [Jean de la Rochebrochard](https://www.linkedin.com/in/jeandlr/?originalSubdomain=fr)
-- :us: [Manuel du developpeur front end 2019](https://frontendmasters.com/books/front-end-handbook/2019/#1) de [Cody Lindley](http://codylindley.com/)
+- :fr: [Les grands principes de la vente](https://www.youtube.com/watch?time_continue=1&v=rTmzAUIL_sQ) de [Jean de la Rochebrochard](https://www.linkedin.com/in/jeandlr/?originalSubdomain=fr)
+- :us: [Comprendre les subtilités: la différence entre Sales et Business Development](https://frontendmasters.com/books/front-end-handbook/2019/#1) de [HubSpot](https://blog.hubspot.com/sales/sales-vs-business-development-whats-the-difference-faq)
 - :fr: [Veille technologique pour les développeurs web](https://thewhale.cc/) de [Gilles Vauvarin](https://thewhale.cc/about)
 - [Le meilleur de JavaScript, HTML et CSS](https://bestofjs.org/tags/learning) Une liste organisée des projets open source les plus populaires liés à la plateforme Web et à Node.js.
 - [Modern JS Cheatsheet](https://mbeaudru.github.io/modern-js-cheatsheet/) Feuille de triche pour la connaissance de JavaScript que vous rencontrerez fréquemment dans des projets modernes.
