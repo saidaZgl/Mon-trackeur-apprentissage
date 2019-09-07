@@ -22,7 +22,6 @@ Un journal complet de mes compétences en développement Web, mon apprentissage,
 | **![](logos/logo-jquery5.png) jQuery**              |   ![done][done]   | ![done][done] |               |                |                |             |
 | **Css Grid & Flex-box**                             |   ![done][done]   | ![done][done] | ![done][done] | ![done][done]  |                |             |
 | **Responsive design**                               |   ![done][done]   | ![done][done] | ![done][done] |                |                |             |
-|                                                     |
 | **![](logos/logo-bootstrap.png) Bootstrap**         |   ![done][done]   | ![done][done] | ![done][done] |                |                |             |
 | **![](logos/logo-terminal3.png) Ligne de commande** |   ![done][done]   | ![done][done] | ![done][done] |                |                |             |
 | **![](logos/logo-npm.png) NPM**                     |   ![done][done]   | ![done][done] | ![done][done] | ![done][done]  |                |             |  |
