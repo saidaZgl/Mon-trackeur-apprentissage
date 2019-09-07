@@ -27,7 +27,6 @@ Un journal complet de mes compétences en développement Web, mon apprentissage,
 | **![](logos/logo-npm.png) NPM**                     |   ![done][done]   | ![done][done] | ![done][done] | ![done][done]  |                |             |  |
 | **![](logos/logoNodeJs.jpg) NodeJs**                |   ![done][done]   | ![done][done] | ![done][done] | ![done][done]  |                |
 | **![](logos/logo-ajax.png) AJAX**                   |   ![done][done]   | ![done][done] |               |                |                |
-|                                                     |                   |               |
 | **![](logos/logoExpress.jpg) Express**              |   ![done][done]   | ![done][done] | ![done][done] | ![done][done]  |                |
 | **![](logos/logoMongoDB.jpg) MongoDB**              |   ![done][done]   | ![done][done] | ![done][done] | ![done][done]  |                |
 | **![](logos/logoMongoose.jpg) Mongoose**            |   ![done][done]   | ![done][done] | ![done][done] | ![done][done]  |                |
