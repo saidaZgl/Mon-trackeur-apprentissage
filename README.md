@@ -67,7 +67,6 @@ Un journal de mes compétences en développement Web et mobile, mon apprentissag
 Je suis actuellement intéressée par:
 
 - Tout ce qui concerne le [Sales&BizzDev](https://www.humindschool.com/blog/ressources-pour-decouvrir-sales-business-development-en-startup)
-  |
 - ![](logos/startup.png)
 - ![](logos/growth-hacking.png) Le Growth Hacking
 
