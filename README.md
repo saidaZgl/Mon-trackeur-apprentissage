@@ -68,8 +68,8 @@ Je suis actuellement intéressée par:
 
 - Tout ce qui concerne le [Sales&BizzDev](https://www.humindschool.com/blog/ressources-pour-decouvrir-sales-business-development-en-startup)
   <br />
-- L'écosystème des startups ![](logos/startup.png)
-- Le Growth Hacking ![](logos/growth-hacking.png)
+- ![](logos/startup.png) L'écosystème des startups
+- ![](logos/growth-hacking.png) Le Growth Hacking
 
 ---
 
