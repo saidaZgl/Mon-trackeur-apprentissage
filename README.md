@@ -1,0 +1,136 @@
+# Mon traqueur d'apprentissage
+
+Un journal complet de mes compétences en développement Web, mon apprentissage, mes ressources, mes centres d'intérêt et tout ce qui concerne mon apprentissage. C'est un moyen de suivre, d'organiser et de partager mes apprentissages.
+
+## Compétences
+
+[done]: https://user-images.githubusercontent.com/29199184/32275438-8385f5c0-bf0b-11e7-9406-42265f71e2bd.png "Done"
+
+| Compétence                                          | 1<br>Introduction |  2<br>Bases   |   3<br>bien   | 4<br>très bien | 5<br>confiante | 6<br>génial |
+| :-------------------------------------------------- | :---------------: | :-----------: | :-----------: | :------------: | :------------: | :---------: |
+| **![](logos/logo-html7.png) HTML5**                 |   ![done][done]   | ![done][done] | ![done][done] | ![done][done]  | ![done][done]  |             |
+| **![](logos/logo-css3.png) CSS3**                   |   ![done][done]   | ![done][done] | ![done][done] | ![done][done]  | ![done][done]  |             |
+| **![](logos/logo-javascript1.png) JavaScript**      |   ![done][done]   | ![done][done] | ![done][done] |                |                |             |
+| **![](logos/logo-es6.png) ES6**                     |   ![done][done]   | ![done][done] | ![done][done] |                |                |             |
+| **![](logos/logo-react1.png) Reactjs**              |   ![done][done]   | ![done][done] | ![done][done] |                |                |             |
+| **![](logos/logo-react1.png) React Native**         |   ![done][done]   | ![done][done] |               |                |                |
+| **![](logos/logo-redux1.png) Redux**                |   ![done][done]   |               |               |                |                |             |  |
+| **![](logos/logo-git.png) Git**                     |   ![done][done]   | ![done][done] | ![done][done] |                |                |             |  |
+| **![](logos/logo-github.png) GitHub**               |   ![done][done]   | ![done][done] | ![done][done] | ![done][done]  | ![done][done]  |             |  |
+| **![](logos/logo-webpack3.png) Webpack 4**          |   ![done][done]   | ![done][done] | ![done][done] |                |                |             |
+| **![](logos/logo-agile.png) Agile**                 |   ![done][done]   | ![done][done] |               |                |                |             |
+| **![](logos/logo-api.png) Travailler avec des API** |   ![done][done]   | ![done][done] |               |                |                |             |
+| **![](logos/logo-jquery5.png) jQuery**              |   ![done][done]   | ![done][done] |               |                |                |             |
+| **Css Grid & Flex-box**                             |   ![done][done]   | ![done][done] | ![done][done] | ![done][done]  |                |             |
+| **Responsive design**                               |   ![done][done]   | ![done][done] | ![done][done] |                |                |             |
+| **Mobile first**                                    |   ![done][done]   | ![done][done] |               |                |                |             |  |
+| **![](logos/logo-markdown6.png) Markdown**          |   ![done][done]   | ![done][done] | ![done][done] | ![done][done]  |                |             |
+| **Construction de site Web**                        |   ![done][done]   | ![done][done] |               |                |                |             |
+| **Déployer un site web**                            |   ![done][done]   | ![done][done] |               |                |                |             |
+| **![](logos/logo-bootstrap.png) Bootstrap**         |   ![done][done]   | ![done][done] | ![done][done] |                |                |             |
+| **![](logos/logo-terminal3.png) Ligne de commande** |   ![done][done]   | ![done][done] | ![done][done] |                |                |             |
+| **![](logos/logo-npm.png) NPM**                     |   ![done][done]   | ![done][done] | ![done][done] | ![done][done]  |                |             |  |
+| **![](logos/logoNodeJs.jpg) NodeJs**                |   ![done][done]   | ![done][done] | ![done][done] | ![done][done]  |
+|  |
+| **![](logos/logo-ajax.png) AJAX**                   |   ![done][done]   | ![done][done] |               |                |                |
+| **![](logos/stripe.jpg) Stripe**                    |   ![done][done]   |               |               |                |                |             |
+
+|**![](logos/logoExpress.jpg) Express** | ![done][done] | ![done][done] | ![done][done] | ![done][done] | |
+|**![](logos/logoMongoDB.jpg) MongoDB** | ![done][done] | ![done][done] | ![done][done] | ![done][done] | |
+|**![](logos/logoMongoose.jpg) Mongoose** | ![done][done] | ![done][done] | ![done][done] | ![done][done] | |
+
+---
+
+## Apprentissage
+
+[//]: # "Status images"
+[completed]: https://user-images.githubusercontent.com/29199184/32275438-8385f5c0-bf0b-11e7-9406-42265f71e2bd.png "Completed"
+[in progress]: https://user-images.githubusercontent.com/29199184/34462881-7305ddac-ee4d-11e7-9b57-589424820da4.png "In Progress"
+[soon]: https://user-images.githubusercontent.com/29199184/34462916-d5c37bd4-ee4d-11e7-9f4a-d57f2243281b.png "Soon"
+
+|           Status            | Année                 | Cours                                                                                                             |                                                         Lien                                                          |
+| :-------------------------: | :-------------------- | :---------------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------: |
+| ![In Progress][in progress] | Août / Septembre 2019 | Formation en ligne NodeJs                                                                                         |                                   [![Dyma](logos/logo-dyma.png)](https://dyma.fr/)                                    |
+|   ![completed][completed]   | Août 2019             | Svelte.js 3 par la pratique                                                                                       |                    [![CodeConcept](logos/codeConceptLogo.jpg)](https://codeconcept.teachable.com/)                    |
+|   ![Completed][completed]   | Août 2019             | Découverte de svelte JS                                                                                           |                          [![Hardcoders](logos/hardcoder.jpg)](https://courses.hardcode.rs/)                           |
+|   ![completed][completed]   | Juillet 2019          | Gatsby PRO (notions avancées)                                                                                     |                          [![Hardcoders](logos/hardcoder.jpg)](https://courses.hardcode.rs/)                           |
+|   ![Completed][completed]   | juillet 2019          | Les React Hooks par la pratique                                                                                   |                    [![CodeConcept](logos/codeConceptLogo.jpg)](https://codeconcept.teachable.com/)                    |
+|   ![Completed][completed]   | Juin 2019             | Créer un blog avec Gatsby (+ Ant design et Netlify CMS)                                                           |                          [![Hardcoders](logos/hardcoder.jpg)](https://courses.hardcode.rs/)                           |
+|   ![Completed][completed]   | Juin 2019             | Découvir React Native et créer des apps mobiles                                                                   |                          [![Hardcoders](logos/hardcoder.jpg)](https://courses.hardcode.rs/)                           |
+|   ![Completed][completed]   | Mai 2019              | Devenir opérationnel en React volume 1, 2 & 3                                                                     |                    [![CodeConcept](logos/codeConceptLogo.jpg)](https://codeconcept.teachable.com/)                    |
+|   ![Completed][completed]   | Mai 2019              | Apprendre le WebMapping avec OpenLayers                                                                           | [![Geomatick](logos/logo-geomatick.png)](https://www.geomatick.com/formations-sig-qgis-geoserver-openlayers-leaflet/) |
+|   ![Completed][completed]   | Avril 2019            | Formation en ligne Webpack 4                                                                                      |                    [![CodeConcept](logos/codeConceptLogo.jpg)](https://codeconcept.teachable.com/)                    |
+|   ![Completed][completed]   | Avril 2019            | Formation en ligne Redux les bases                                                                                |                                   [![Dyma](logos/logo-dyma.png)](https://dyma.fr/)                                    |
+|   ![Completed][completed]   | Avril 2019            | Formation en ligne React                                                                                          |                                   [![Dyma](logos/logo-dyma.png)](https://dyma.fr/)                                    |
+|   ![Completed][completed]   | Avril 2019            | Formation en ligne JavaScript (ES6+), Module débutant                                                             |                 [![javascriptdezero](logos/javascriptdezero.jpg)](https://www.javascriptdezero.com/)                  |
+|   ![Completed][completed]   | Avril 2019            | Préparation en ligne et certification « Maîtrise de la qualité en projet web »                                    |                       [![opquast](logos/logo-opquast.png)](https://www.opquast.com/formation/)                        |
+|   ![Completed][completed]   | Mars 2019             | Développement moderne Javascript et ES6, ES7                                                                      |                      [![Udemy](logos/logo-udemy.png)](https://www.udemy.com/javascript-es6-es7/)                      |
+|   ![Completed][completed]   | Février 2019          | Vraiment bien comprendre javascript                                                                               |                    [![Udemy](logos/logo-udemy.png)](https://www.udemy.com/comprendre-javascript/)                     |
+|   ![Completed][completed]   | Février 2019          | AdminSys, Introduction à Symfony, React et Wordpress                                                              |                               [![O 'Clock](logos/logo-oclock.png)](https://oclock.io/)                                |
+|   ![Completed][completed]   | Janvier 2019          | Introduction au framework Lumen                                                                                   |                               [![O 'Clock](logos/logo-oclock.png)](https://oclock.io/)                                |
+|   ![Completed][completed]   | Janvier 2019          | AJAX, JSON, API, jQuery, MCD(Modèle Conceptuel de Données), MLD(Modèle Logique de Données)                        |                               [![O 'Clock](logos/logo-oclock.png)](https://oclock.io/)                                |
+|   ![Completed][completed]   | Décembre 2018         | MVC (Modèle-Vue-Contôleur), Composeur, Héritage, POO, SEO, Modélisation de la BDD, Agile                          |                               [![O 'Clock](logos/logo-oclock.png)](https://oclock.io/)                                |
+|   ![Completed][completed]   | Décembre 2018         | Gestion de projet, MySQL, SQL, phpMyAdmin, POO avec PHP, Bootstrap                                                |                               [![O 'Clock](logos/logo-oclock.png)](https://oclock.io/)                                |
+|   ![Completed][completed]   | Novembre 2018         | JavaScript ES5                                                                                                    |                               [![O 'Clock](logos/logo-oclock.png)](https://oclock.io/)                                |
+|   ![Completed][completed]   | Novembre 2018         | PHP, Templating                                                                                                   |                               [![O 'Clock](logos/logo-oclock.png)](https://oclock.io/)                                |
+|   ![Completed][completed]   | Novembre 2018         | Intégration, HTML5, CSS3, Git, Github, Slack, Vscode, Chrome,Intégration, Flexbox, Css Grid, ResponsiveWeb Design |                               [![O 'Clock](logos/logo-oclock.png)](https://oclock.io/)                                |
+
+---
+
+## Intérêts
+
+Je suis actuellement intéressé par:
+
+- Tout ce qui concerne la [JAMstack](https://jamstatic.fr/2019/02/07/c-est-quoi-la-jamstack/)
+- :earth_africa: webmapping avec OpenLayers
+- ![](logos/logo-react1.png) React
+- ![](logos/gatsby.jpg) Gatsby
+- ![](logos/svelte.jpg) Svelte JS
+
+---
+
+## Ressources
+
+- :fr: [les meilleurs développeurs web Français sur YouTube...](https://www.ledevweb.fr/) de [Jérémy Mouzin](https://www.javascriptdezero.com/#10)
+- :us: [Manuel du developpeur front end 2019](https://frontendmasters.com/books/front-end-handbook/2019/#1) de [Cody Lindley](http://codylindley.com/)
+- :fr: [Veille technologique pour les développeurs web](https://thewhale.cc/) de [Gilles Vauvarin](https://thewhale.cc/about)
+- [Le meilleur de JavaScript, HTML et CSS](https://bestofjs.org/tags/learning) Une liste organisée des projets open source les plus populaires liés à la plateforme Web et à Node.js.
+- [Modern JS Cheatsheet](https://mbeaudru.github.io/modern-js-cheatsheet/) Feuille de triche pour la connaissance de JavaScript que vous rencontrerez fréquemment dans des projets modernes.
+- :thumbsup: [The Modern JavaScript Tutorial](http://javascript.info/) Des bases aux sujets avancés avec des explications simples mais détaillées.
+
+---
+
+## Suivre le monde Frontend
+
+- [Focus Frontend](https://frontendfoc.us/) Un récapitulatif hebdomadaire des meilleures nouvelles, articles et tutoriels du front-end. HTML, CSS, WebGL, Canvas, technologie de navigateur, etc.
+- [JavaScript Weekly](https://javascriptweekly.com/) Un récapitulatif gratuit, une fois par semaine, des nouvelles et des articles JavaScript.
+- [StatusCode Weekly](https://webopsweekly.com/) Un bulletin hebdomadaire couvrant le développement de logiciels, les opérations Web, l'infrastructure, les plates-formes et les performances.
+- ## [React Status](https://react.statuscode.com/) Un récapitulatif hebdomadaire des derniers liens et didacticiels React et React Native.
+
+### Liste de contrôle de développement Web
+
+Voici une liste d'objectifs de base à atteindre sur le chemin de la maîtrise du développement Web.
+
+Cette liste est une copie presque exacte de [ Ginny Fahs](https://twitter.com/ginnyfahs) [ "Things Real Developers Do: My Bucket List"](https://blog.prototypr.io/wondering-if-youre-a-real-developer-yet-try-making-a-bucket-list-281275482155)
+
+- [x] Ouvrrir le terminal de l'ordinateur
+- [x] Utilisez un éditeur de texte (Vscode)
+- [x] Utilisez des raccourcis clavier
+- [ ] Écrire des tests pour votre code
+- [x] Aidez un autre développeur Web à résoudre un problème
+- [ ] Assistez à un événement sur le développement Web
+- [x] Suivre les développeurs que l'on admire sur les médias sociaux
+- [ ] Lire un livre sur le codage
+- [x] Ouvrir la console de votre navigateur
+- [x] Obtenir des données d'une API
+- [x] Masquer les clés API du public
+- [x] Posez une question sur Stack Overflow
+- [x] Code Push vers GitHub
+- [ ] Parlez de quelque chose lié au développement web lors d'un événement
+- [ ] Remplir un entretien technique
+- [ ] Participer à un hackathon
+- [x] Déployer un projet
+- [ ] Contribuer à l'open source
+- [ ] Soyez payé pour coder
+- [x] Lorsque les gens vous demandent ce que vous faites, répondez en disant que vous êtes développeur :)
+- [x] Travailler en Pair Programming
