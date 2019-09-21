@@ -101,9 +101,7 @@ Je suis actuellement intéressée par :
 
 ### Liste de contrôle de développement Web
 
-Voici une liste d'objectifs de base à atteindre sur le chemin de la maîtrise du développement Web.
-
-Cette liste est une copie presque exacte de [ Ginny Fahs](https://twitter.com/ginnyfahs) [ "Things Real Developers Do: My Bucket List"](https://blog.prototypr.io/wondering-if-youre-a-real-developer-yet-try-making-a-bucket-list-281275482155)
+Voici une liste d'objectifs de base à atteindre :
 
 - [x] Ouvrir le terminal de l'ordinateur
 - [x] Utilisez un éditeur de texte (Vscode)
@@ -126,3 +124,5 @@ Cette liste est une copie presque exacte de [ Ginny Fahs](https://twitter.com/gi
 - [ ] Soyez payé pour coder
 - [x] Lorsque les gens vous demandent ce que vous faites, répondez en disant que vous apprenez le code :)
 - [x] Travailler en Pair Programming
+- [] Apprendre la Data Science
+- [] Appendre le langage Python
