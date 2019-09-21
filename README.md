@@ -64,20 +64,20 @@ Un journal de mes compétences en développement Web et mobile, mon apprentissag
 
 ## Mes intérêts
 
-Je suis actuellement intéressée par:
+Je suis actuellement intéressée par :
 
-- Tout ce qui concerne le [Sales&BizzDev](https://www.humindschool.com/blog/ressources-pour-decouvrir-sales-business-development-en-startup) et l'écosystème des startups
+- Tout ce qui concerne la [Data Science](https://jedha.co/) et l'écosystème des startups
 
 ![](logos/startup.png)
 ![](logos/growth-hacking.png)
 
 ---
 
-## Ressources Sales & Business Development
+## Ressources Data Science
 
-- :fr: [Les grands principes de la vente](https://www.youtube.com/watch?time_continue=1&v=rTmzAUIL_sQ) de [Jean de la Rochebrochard](https://www.linkedin.com/in/jeandlr/?originalSubdomain=fr)
-- :us: [Comprendre les subtilités: la différence entre Sales et Business Development](https://frontendmasters.com/books/front-end-handbook/2019/#1) de [HubSpot](https://blog.hubspot.com/sales/sales-vs-business-development-whats-the-difference-faq)
-- :fr: [Le Business Development est-il fait pour vous?](https://medium.com/humind-school/le-business-development-dans-la-tech-est-il-fait-pour-toi-468e40878de3) de [Humind School](https://www.humindschool.com/)
+- :fr: [Prédire le cours d'une action grâce à la data science](https://jedha.co/blog/2019/09/11/predire-le-cours-dune-action-grace-a-la-data-science/) de [Nirsrine BARKALLAH]
+- :us: [Data Science Life Cycle 101 for Dummies like Me](https://towardsdatascience.com/data-science-life-cycle-101-for-dummies-like-me-e66b47ad8d8f) de [Sangeet Moy Das](https://medium.com/)
+- :fr: [Convaincre grâce aux données](https://jedha.co/blog/2018/06/15/convaincre-grace-aux-donnees/) de [KENT AQUEREBURU - DATA SCIENTIST @ SOCIÉTÉ GÉNÉRALE]
 
 ---
 
