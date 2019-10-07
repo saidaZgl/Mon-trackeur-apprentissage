@@ -126,5 +126,6 @@ Voici une liste d'objectifs de base à atteindre :
 - [ ] Soyez payé pour coder
 - [x] Lorsque les gens vous demandent ce que vous faites, répondez en disant que vous apprenez le code :)
 - [x] Travailler en Pair Programming
-- [] Apprendre la Data Science
-- [] Appendre le langage Python
+- [ ] Apprendre la Data Science
+- [ ] Appendre le langage Python
+- [ ] Apprendre SQL
