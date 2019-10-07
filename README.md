@@ -127,5 +127,5 @@ Voici une liste d'objectifs de base à atteindre :
 - [x] Lorsque les gens vous demandent ce que vous faites, répondez en disant que vous apprenez le code :)
 - [x] Travailler en Pair Programming
 - [ ] Apprendre la Data Science
-- [ ] Appendre le langage Python
+- [ ] Apprendre le langage Python
 - [ ] Apprendre SQL
