@@ -30,8 +30,8 @@ Un journal de mes compétences en développement Web et mobile, mon apprentissag
 | **![](logos/logoExpress.jpg) Express**              |   ![done][done]   | ![done][done] | ![done][done] |
 | **![](logos/logoMongoDB.jpg) MongoDB**              |   ![done][done]   | ![done][done] | ![done][done] |
 | **![](logos/logoMongoose.jpg) Mongoose**            |   ![done][done]   | ![done][done] | ![done][done] |
-| **![](logos/logo_python.png) Python**               |   ![done][done]   | ![done][done] | ![done][done] |
-| **![](logos/sql-logo.png) SQL**                     |   ![done][done]   | ![done][done] | ![done][done] |
+| \*\*![](logos/logo_python.png)                      |   ![done][done]   | ![done][done] | ![done][done] |
+| \*\*![](logos/sql-logo.png)                         |   ![done][done]   | ![done][done] | ![done][done] |
 
 ---
 
