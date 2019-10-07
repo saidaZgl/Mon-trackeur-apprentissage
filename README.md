@@ -30,6 +30,8 @@ Un journal de mes compétences en développement Web et mobile, mon apprentissag
 | **![](logos/logoExpress.jpg) Express**              |   ![done][done]   | ![done][done] | ![done][done] |
 | **![](logos/logoMongoDB.jpg) MongoDB**              |   ![done][done]   | ![done][done] | ![done][done] |
 | **![](logos/logoMongoose.jpg) Mongoose**            |   ![done][done]   | ![done][done] | ![done][done] |
+| **![](logos/logo-python.png) Python**               |   ![done][done]   | ![done][done] | ![done][done] |
+| **![](logos/sql-logo.png) SQL**                     |   ![done][done]   | ![done][done] | ![done][done] |
 
 ---
 
@@ -76,7 +78,7 @@ Je suis actuellement intéressée par :
 ## Ressources Data Science
 
 - :fr: [Prédire le cours d'une action grâce à la data science](https://jedha.co/blog/2019/09/11/predire-le-cours-dune-action-grace-a-la-data-science/) de [Nirsrine BARKALLAH]
-- :us: [Data Science Life Cycle 101 for Dummies like Me](https://towardsdatascience.com/data-science-life-cycle-101-for-dummies-like-me-e66b47ad8d8f) de [Sangeet Moy Das](https://medium.com/)
+- :us: [Data Science Life Cycle 101 for Dummies like Me](https://towardsdatascience.com/data-science-life-cycle-101-for-dummies-like-me-e66b47ad8d8f) de [Sangeet Moy Das]
 - :fr: [Convaincre grâce aux données](https://jedha.co/blog/2018/06/15/convaincre-grace-aux-donnees/) de [KENT AQUEREBURU - DATA SCIENTIST @ SOCIÉTÉ GÉNÉRALE]
 
 ---
